@@ -1,4 +1,4 @@
-![Screenshot_1737897315](https://github.com/user-attachments/assets/51901f24-7215-40d4-baaa-a9fb3f9f94c4)# Dice_Roller
+# Dice_Roller
 
 A Flutter application that simulates rolling dice, providing a simple and interactive way to generate random numbers.
 
@@ -42,6 +42,6 @@ This project uses the following Flutter dependencies:
 
 For a complete list of dependencies, see the `pubspec.yaml` file.
 
+
 ## Screenshots
-![Screenshot_1737897315](https://github.com/user-attachments/assets/2957360c-9ae3-4e3a-911a-4ec0c4dc147c)
-![Screenshot_1737897311](https://github.com/user-attachments/assets/63a0def5-a8d3-490f-a8d6-74c4149912ed)
+![Screenshot_1737897315](https://github.com/user-attachments/assets/b956a738-a883-49cf-a810-5ebeff81b750)
