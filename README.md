@@ -44,4 +44,4 @@ For a complete list of dependencies, see the `pubspec.yaml` file.
 
 
 ## Screenshots
-![Screenshot_1737897315](https://github.com/user-attachments/assets/b956a738-a883-49cf-a810-5ebeff81b750)
+<img src="https://github.com/user-attachments/assets/b956a738-a883-49cf-a810-5ebeff81b750" alt="Screenshot" width="200" height="400">
